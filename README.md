@@ -1,8 +1,2 @@
 # InstagramBotType
-Program to automatic type in Insta's photos
-Hello guys, Im Jansen Im Brazilian.
-I made this bot and to run it you have to type in your terminal
-pip install selenium
-
-
-Bye guys, i hope you enjoy the code
+MADE A LONG TIME AGO) //obs.: This project is out to date. It was developed almost three years ago. I improved a lot as a python developer. Therefore, this code it's for personal comparison.
